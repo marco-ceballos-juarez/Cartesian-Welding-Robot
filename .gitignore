@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.autosave
+temp/
+tmp/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+codegen/
+
+# ROS / build artifacts
+build/
+install/
+log/
+devel/
+.catkin_tools/
+
+# Simulation caches and generated data
+**/cache/
+**/output/
+**/generated/
+*.lock
+
+# CAD: temporary, backup and autosave files
+*.sldasm~
+*.sldprt~
+*.slddrw~
+*.bak
+~$*
+
+# Sensitive/local configuration
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
