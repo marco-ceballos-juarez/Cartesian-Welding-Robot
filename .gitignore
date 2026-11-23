@@ -120,3 +120,7 @@ credentials/
 *.xz
 *.tar.gz
 *.tgz
+
+# Carpetas que no se deben subir a GitHub
+Imagenes/
+Archivos/
