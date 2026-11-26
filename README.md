@@ -1,7 +1,7 @@
 # Cartesian Welding Robot
 
 <p align="center">
-  <img src="mechanical/07_Media/https://wiki.printnc.info/en/home" alt="Cartesian Welding Robot" width="85%">
+  <img src="mechanical/07_Media/ASM_000_CARTESIAN_ROBOT_ISO" alt="Cartesian Welding Robot" width="85%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="README.es.md">🇲🇽 Español</a> |
+  <a href="README.es.md">🇲🇽 Español</a>
   <a href="README.md">🇬🇧 English</a>
 </p>
 
