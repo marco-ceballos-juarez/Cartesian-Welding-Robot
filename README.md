@@ -1,7 +1,7 @@
 # Cartesian Welding Robot
 
 <p align="center">
-  <img src="mechanical/07_Media/ASM_000_CARTESIAN_ROBOT_ISO" alt="Cartesian Welding Robot" width="85%">
+  <img src="mechanical/07_Media/ASM_000_CARTESIAN_ROBOT_ISO.png" alt="Cartesian Welding Robot" width="85%">
 </p>
 
 <p align="center">
