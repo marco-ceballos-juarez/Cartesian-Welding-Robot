@@ -184,7 +184,7 @@ Project images, CAD renders, simulation videos, and experimental demonstrations 
 
 ## Acknowledgments
 
-This project builds upon the open-source mechanical design of [PrintNC](https://github.com/PrintNC/PrintNC). We acknowledge the original developers and contributors for making their work available to the community.
+This project builds upon the open-source mechanical design of [PrintNC](https://wiki.printnc.info/en/home). We acknowledge the original developers and contributors for making their work available to the community.
 
 ## License
 
