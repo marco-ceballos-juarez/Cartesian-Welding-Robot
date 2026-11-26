@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Based on the <a href="https://github.com/PrintNC/PrintNC">PrintNC open-source CNC project</a>, adapted and extended for robotic welding applications.
+  Based on the <a href="https://wiki.printnc.info/en/home">PrintNC open-source CNC project</a>, adapted and extended for robotic welding applications.
 </p>
 
 <p align="center">
