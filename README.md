@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="README.es.md">🇲🇽 Español</a>
-  <a href="README.md">🇬🇧 English</a>
+  <a href="README.es.md">Español</a>
+  <a href="README.md">English</a>
 </p>
 
 <p align="center">
