@@ -30,7 +30,7 @@
 
 The **Cartesian Welding Robot** is an open-source project focused on the design, development, and integration of a Cartesian robotic platform for **MIG/MAG welding using a continuously fed wire electrode (wire welding)**.
 
-The mechanical architecture is based on the [PrintNC project](https://github.com/PrintNC/PrintNC), an open-source CNC machine design. Its original structure has been adapted and extended to meet the requirements of robotic welding, incorporating modifications to the mechanical system, welding torch mounting, electronics, control software, and motion planning.
+The mechanical architecture is based on the [PrintNC project](https://wiki.printnc.info/en/home), an open-source CNC machine design. Its original structure has been adapted and extended to meet the requirements of robotic welding, incorporating modifications to the mechanical system, welding torch mounting, electronics, control software, and motion planning.
 
 The project aims to provide an accessible and modular robotic platform that can be reproduced, modified, and further developed by researchers, students, and robotics enthusiasts.
 
